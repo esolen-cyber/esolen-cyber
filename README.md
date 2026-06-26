@@ -43,6 +43,6 @@ My journey with computers has gotten me to this point and I hope that it continu
 Per Scholas | Expected Completion: July 2026
 Relevant Coursework: Network Defense, Cryptography, Linux Basics
 
-## Contact Information
-<a href="https://www.linkedin.com/in/elijah-solen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.youtube.com/@ESolenCyber"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logoColor=red" /></a>
+## Links
+<a href="https://www.linkedin.com/in/elijah-solen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&logoColor=white" /></a>
+<a href="https://www.youtube.com/@ESolenCyber"><img src="https://img.shields.io/badge/-YouTube-FF0000?&logoColor=white" /></a>
