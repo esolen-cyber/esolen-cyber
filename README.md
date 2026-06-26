@@ -45,4 +45,4 @@ Relevant Coursework: Network Defense, Cryptography, Linux Basics
 
 ## Contact Information
 <a href="https://www.linkedin.com/in/elijah-solen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.youtube.com/@ESolenCyber"><img src="https://img.shields.io/badge/-YouTube-FF0000?&syle=for-the-badge&logoColor=red" /></a>
+<a href="https://www.youtube.com/@ESolenCyber"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logoColor=red" /></a>
