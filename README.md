@@ -17,6 +17,30 @@ My journey with computers has gotten me to this point and I hope that it continu
 
 ## Skills & Technologies
 
-
 ### Security Skills
 - **Penetration Testing:** Network scanning, vulnerability assessment, exploitation
+- **Network Security:** Firewall config, IDS/IPS, packet analysis
+
+### Technical Skills
+- **Operating Systems:** Kali Linux, Windows 10/11, Proxmox
+- **Tools:** Nmap, Metasploit, Wireshark, Burp Suite
+
+### Certifications
+- CompTIA Security+ (July 2026)
+
+## Featured Projects
+
+### 1. Home Lab
+
+### 2. CTF Writeups
+
+### 3. Vulnerability Research and Bug Bounty Hunting
+
+## Latest Blog Posts, Writeups, Videos
+
+## Education
+
+**Certificate of Completion**
+Per Scholas | Expected Completion: July 2026
+Relevant Coursework: Network Defense, Cryptography, Linux Basics
+
