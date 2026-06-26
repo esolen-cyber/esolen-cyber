@@ -3,5 +3,5 @@
 
 [Brief Introduction to Me]
 
-I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines and trying my hand at bug bounty hunting.
+I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines and try my hand at bug bounty hunting.
 
