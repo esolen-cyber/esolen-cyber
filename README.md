@@ -3,17 +3,6 @@
 
 I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines and try my hand at bug bounty hunting.
 
-## Career Goal
-
-My journey with computers has gotten me to this point and I hope that it continues to do so. One day I hope to open my own security consultancy firm, performing digital and physical penetration testing. I am eager to start my professional technology journey, specifically aiming to join an SOC or Digital Forensics team.
-
-## Current Focus
-
-- Preparing for CompTIA Security+
-- Learning about security frameworks (ISO 27001, SOC2, NIST 800-53)
-- CTF writeups
-- Amateur bug bounty hunting
-
 ## Skills & Technologies
 
 ### Security Skills
@@ -27,6 +16,17 @@ My journey with computers has gotten me to this point and I hope that it continu
 ### Certifications
 - CompTIA Security+ (Exp. July 2029)
 
+## Career Goal
+
+My journey with computers has gotten me to this point and I hope that it continues to do so. One day I hope to open my own security consultancy firm, performing digital and physical penetration testing. I am eager to start my professional technology journey, specifically aiming to join an SOC or Digital Forensics team.
+
+## Current Focus
+
+- Hands on labs in Splunk Siem
+- Learning about security frameworks (ISO 27001, SOC2, NIST 800-53)
+- CTF writeups
+- Amateur bug bounty hunting
+
 ## Featured Projects
 
 ### 1. Home Lab 
@@ -35,7 +35,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 **Key Features:**
 - Type-1 and Type-2 Hypervisors
 - Multiple OSs for various lab interfaces and environments
-- Network segmentation (i.e. Sanboxing, Airgapping, Internal Network)
+- Network segmentation (i.e. Sandboxing, Airgapping, Internal Network)
 
 ### 2. CTF Writeups
 
