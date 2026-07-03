@@ -5,6 +5,9 @@ I am a cybersecurity professional with 9+ years in home system admin and home ne
 
 ## Skills & Technologies
 
+### Certifications
+- CompTIA Security+ (Exp. July 2029)
+
 ### Security Skills
 - **Penetration Testing:** Network scanning, vulnerability assessment, exploitation
 - **Network Security:** Firewall config, IDS/IPS, packet analysis
@@ -13,8 +16,7 @@ I am a cybersecurity professional with 9+ years in home system admin and home ne
 - **Operating Systems:** Kali Linux, Windows 10/11, Proxmox
 - **Tools:** Nmap, Metasploit, Wireshark, Burp Suite
 
-### Certifications
-- CompTIA Security+ (Exp. July 2029)
+
 
 ## Career Goal
 
