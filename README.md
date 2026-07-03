@@ -1,5 +1,5 @@
 # Hello, I'm Eli
-<a href="https://www.linkedin.com/in/elijah-solen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&logoColor=white" /></a>
+![alt text](image.png)
 
 I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines and try my hand at bug bounty hunting.
 
@@ -29,7 +29,14 @@ My journey with computers has gotten me to this point and I hope that it continu
 
 ## Featured Projects
 
-### 1. Home Lab
+### 1. Home Lab 
+**Description:** A combination of virtual machines, physical devices, and various forms of networking. I use it to perform CTF challenges on vulnerable machines, work on lateral movement, and perform malware analysis.
+**Technologies:** Proxmox, Kali Linux, Windows 10/11, Network Switch, Dell OptiPlex 7040M
+**Key Features:**
+- Type-1 and Type-2 Hypervisors
+- Multiple OSs for various lab interfaces and environments
+- Network segmentation (i.e. Sanboxing, Airgapping, Internal Network)
+- 
 
 ### 2. CTF Writeups
 
