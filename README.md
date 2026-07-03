@@ -1,5 +1,5 @@
 # Hello, I'm Eli
-<img src="image.png" alt="Security+ Logo" width="60" height="60">
+<img src="image.png" alt="Security+ Logo" width="90" height="90">
 
 I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines and try my hand at bug bounty hunting.
 
@@ -36,7 +36,6 @@ My journey with computers has gotten me to this point and I hope that it continu
 - Type-1 and Type-2 Hypervisors
 - Multiple OSs for various lab interfaces and environments
 - Network segmentation (i.e. Sanboxing, Airgapping, Internal Network)
-- 
 
 ### 2. CTF Writeups
 
