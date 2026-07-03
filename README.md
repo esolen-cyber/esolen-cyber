@@ -1,5 +1,5 @@
 # Hello, I'm Eli
-![alt text](image.png)
+<img src="C:\Users\easol\Documents\GitHub\esolen-cyber\image.png" alt="Security+ Logo" width="60" height="60">
 
 I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines and try my hand at bug bounty hunting.
 
