@@ -45,7 +45,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 
 ## Education
 
-**Certificate of Completion**
+**Certificate of Completion**\
 Per Scholas | Expected Completion: July 2026
 Relevant Coursework: Network Defense, Cryptography, Linux Basics, Splunk labs
 
