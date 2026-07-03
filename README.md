@@ -25,7 +25,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 - **Tools:** Nmap, Metasploit, Wireshark, Burp Suite
 
 ### Certifications
-- CompTIA Security+ (July 2026)
+- CompTIA Security+ (Exp. July 2029)
 
 ## Featured Projects
 
