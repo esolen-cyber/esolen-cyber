@@ -7,6 +7,7 @@ I am a cybersecurity professional with 9+ years in home system admin and home ne
 
 ### Certifications
 - CompTIA Security+ (Exp. July 2029)
+- Cisco Networking Academy: Network Defense (Completed May 2026)
 
 ### Security Skills
 - **Penetration Testing:** Network scanning, vulnerability assessment, exploitation
