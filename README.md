@@ -16,8 +16,6 @@ I am a cybersecurity professional with 9+ years in home system admin and home ne
 - **Operating Systems:** Kali Linux, Windows 10/11, Proxmox
 - **Tools:** Nmap, Metasploit, Wireshark, Burp Suite
 
-
-
 ## Career Goal
 
 My journey with computers has gotten me to this point and I hope that it continues to do so. One day I hope to open my own security consultancy firm, performing digital and physical penetration testing. I am eager to start my professional technology journey, specifically aiming to join an SOC or Digital Forensics team.
@@ -49,7 +47,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 
 **Certificate of Completion**
 Per Scholas | Expected Completion: July 2026
-Relevant Coursework: Network Defense, Cryptography, Linux Basics
+Relevant Coursework: Network Defense, Cryptography, Linux Basics, Splunk labs
 
 ## Links
 <a href="https://www.linkedin.com/in/elijah-solen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&logoColor=white" /></a>
