@@ -33,7 +33,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 ## Featured Projects
 
 ### 1. Home Lab 
-**Description:** A combination of virtual machines, physical devices, and various forms of networking. I use it to perform CTF challenges on vulnerable machines, work on lateral movement, and perform malware analysis.
+**Description:** A combination of virtual machines, physical devices, and various forms of networking. I use it to perform CTF challenges on vulnerable machines, work on lateral movement, and perform malware analysis.\
 **Technologies:** Proxmox, Kali Linux, Windows 10/11, Network Switch, Dell OptiPlex 7040M\
 **Key Features:**
 - Type-1 and Type-2 Hypervisors
