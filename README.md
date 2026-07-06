@@ -5,7 +5,7 @@ I am a cybersecurity professional with 9+ years in home system admin and home ne
 
 ## Skills & Technologies
 
-### Certifications
+### Certifications & Certificates
 - CompTIA Security+ ce (Expires July 2029)
 - Cisco Networking Academy: Network Defense (Completed May 2026)
 - Cisco Networking Academy: Networking Basics (Completed April 2026)
@@ -25,7 +25,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 
 ## Current Focus
 
-- Hands on labs in Splunk Siem
+- Hands on labs in Splunk and Wazuh SIEM's
 - Learning about security frameworks (ISO 27001, SOC2, NIST 800-53)
 - CTF writeups
 - Amateur bug bounty hunting
@@ -50,3 +50,4 @@ Relevant Coursework: Network Defense, Cryptography, Linux Basics, Splunk labs
 ## Links
 <a href="https://www.linkedin.com/in/elijah-solen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&logoColor=white" /></a>
 <a href="https://www.youtube.com/@ESolenCyber"><img src="https://img.shields.io/badge/-YouTube-FF0000?&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/ESolen-Cyber"><img src="https://img.shields.io/badge/-reddit-FF5700?&logoColor=white" /></a>
