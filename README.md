@@ -6,7 +6,7 @@ I am a cybersecurity professional with 9+ years in home system admin and home ne
 ## Skills & Technologies
 
 ### Certifications
-- CompTIA Security+ (Expires July 2029)
+- CompTIA Security+ ce (Expires July 2029)
 - Cisco Networking Academy: Network Defense (Completed May 2026)
 - Cisco Networking Academy: Networking Basics (Completed April 2026)
 - Coursera: Google AI Essentials (Completed April 2026)
