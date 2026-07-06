@@ -37,12 +37,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 - Type-1 and Type-2 Hypervisors
 - Multiple OSs for various lab interfaces and environments
 - Network segmentation (i.e. Sandboxing, Airgapping, Internal Network)
-
-### 2. CTF Writeups
-
-### 3. Vulnerability Research and Bug Bounty Hunting
-
-## Latest Blog Posts, Writeups, Videos
+- Wazuh SIEM for malware analysis, detection, and response practice
 
 ## Education
 
