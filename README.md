@@ -17,7 +17,7 @@ I am a cybersecurity professional with 9+ years in home system admin and home ne
 
 ### Technical Skills
 - **Operating Systems:** Kali Linux, Windows 10/11, Proxmox
-- **Tools:** Nmap, Metasploit, Wireshark, Burp Suite
+- **Tools & Software:** Nmap, Metasploit, Wireshark, Burp Suite, Splunk, Wazuh, VirtualBox, CherryTree, Visual Studio Code, OBS, DaVinci Resolve
 
 ## Career Goal
 
