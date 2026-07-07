@@ -1,7 +1,7 @@
 # Hello, I'm Eli
 <img src="image.png" alt="Security+ Logo" width="90" height="90">
 
-I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines and try my hand at bug bounty hunting.
+I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines, try my hand at bug bounty hunting, and perform digital forensics for the public.
 
 ## Skills & Technologies
 
