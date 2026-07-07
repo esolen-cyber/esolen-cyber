@@ -41,6 +41,14 @@ My journey with computers has gotten me to this point and I hope that it continu
 - Network segmentation (i.e. Sandboxing, Airgapping, Internal Network)
 - Wazuh SIEM for malware analysis, detection, and response practice
 
+### 2. Digital Forensics & Investigations
+**Description:** Various techniques of enumeration of malware and attack vectors to narrow down how an attacker gained access to a system.\
+**Technologies:** VirtualBox, Kali Linux, MacOS, Windows 10/11, Network Segmentation\
+**Key Skills:**
+- Performing analysis in an isolated environment
+- Following malware to source code and determining root cause
+- Creating writeups documenting findings and stating how to mitigate attacks in the future
+
 ## Education
 
 **Certificate of Completion**\
