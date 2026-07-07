@@ -32,7 +32,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 
 ## Featured Projects
 
-### 1. Home Lab 
+### 1. [Home Lab](https://github.com/esolen-cyber/home-lab)
 **Description:** A combination of virtual machines, physical devices, and various forms of networking. I use it to perform CTF challenges on vulnerable machines, work on lateral movement, and perform malware analysis.\
 **Technologies:** VirtualBox, Proxmox, Kali Linux, Windows 10/11, Wazuh, Network Switch, Dell OptiPlex 7040M\
 **Key Features:**
