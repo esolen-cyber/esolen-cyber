@@ -46,7 +46,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 **Technologies:** VirtualBox, Kali Linux, MacOS, Windows 10/11, Wazuh, Network Segmentation\
 **Key Skills:**
 - Performing malware analysis in an isolated environment
-- Following malware to source code and determining root cause
+- Determing root cause and goal of malware
 - Creating writeups documenting findings and stating how to mitigate attacks in the future
 
 ## Education
