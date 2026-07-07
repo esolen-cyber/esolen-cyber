@@ -41,7 +41,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 - Network segmentation (i.e. Sandboxing, Airgapping, Internal Network)
 - Wazuh SIEM for detection and response practice
 
-### 2. Digital Forensics & Investigations
+### 2. [Digital Forensics & Investigations](https://github.com/esolen-cyber/digital-forensics)
 **Description:** Various techniques of enumeration of malware and attack vectors to narrow down how an attacker gained access to a system.\
 **Technologies:** VirtualBox, Kali Linux, MacOS, Windows 10/11, Wazuh\
 **Key Skills:**
