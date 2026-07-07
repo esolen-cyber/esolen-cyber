@@ -44,7 +44,7 @@ My journey with computers has gotten me to this point and I hope that it continu
 ### 2. Digital Forensics & Investigations
 **Description:** Various techniques of enumeration of malware and attack vectors to narrow down how an attacker gained access to a system.\
 **Technologies:** VirtualBox, Kali Linux, MacOS, Windows 10/11, Wazuh, Network Segmentation\
-**Key Skills:**\
+**Key Skills:**
 - Performing malware analysis in an isolated environment
 - Following malware to source code and determining root cause
 - Creating writeups documenting findings and stating how to mitigate attacks in the future
