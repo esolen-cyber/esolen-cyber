@@ -39,14 +39,14 @@ My journey with computers has gotten me to this point and I hope that it continu
 - Type-1 and Type-2 Hypervisors
 - Multiple OSs for various lab interfaces and environments
 - Network segmentation (i.e. Sandboxing, Airgapping, Internal Network)
-- Wazuh SIEM for malware analysis, detection, and response practice
+- Wazuh SIEM for detection and response practice
 
 ### 2. Digital Forensics & Investigations
 **Description:** Various techniques of enumeration of malware and attack vectors to narrow down how an attacker gained access to a system.\
-**Technologies:** VirtualBox, Kali Linux, MacOS, Windows 10/11, Wazuh, Network Segmentation\
+**Technologies:** VirtualBox, Kali Linux, MacOS, Windows 10/11, Wazuh\
 **Key Skills:**
 - Performing malware analysis in an isolated environment
-- Determing root cause and goal of malware
+- Determing intial attack vector and threat actors goal
 - Creating writeups documenting findings and stating how to mitigate attacks in the future
 
 ## Education
