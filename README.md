@@ -1,7 +1,7 @@
 # Hello, I'm Eli
 <img src="image.png" alt="Security+ Logo" width="90" height="90">
 
-I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines, try my hand at bug bounty hunting, and perform digital forensics investigations for the public.
+I am a cybersecurity professional with 9+ years in home system admin and home network building experience. In my free time I partake in CTF's on vulnerable machines and try my hand at bug bounty hunting.
 
 ## Skills & Technologies
 
@@ -17,7 +17,7 @@ I am a cybersecurity professional with 9+ years in home system admin and home ne
 
 ### Technical Skills
 - **Operating Systems:** Kali Linux, Windows 10/11, Proxmox
-- **Tools & Software:** Nmap, Metasploit, Wireshark, Burp Suite, Splunk, Wazuh, VirtualBox, CherryTree, Visual Studio Code, OBS, DaVinci Resolve
+- **Tools:** Nmap, Metasploit, Wireshark, Burp Suite
 
 ## Career Goal
 
@@ -32,27 +32,19 @@ My journey with computers has gotten me to this point and I hope that it continu
 
 ## Featured Projects
 
-### 1. [Home Lab](https://github.com/esolen-cyber/home-lab)
+### 1. Home Lab 
 **Description:** A combination of virtual machines, physical devices, and various forms of networking. I use it to perform CTF challenges on vulnerable machines, work on lateral movement, and perform malware analysis.\
-**Technologies:** VirtualBox, Proxmox, Kali Linux, Windows 10/11, Wazuh, Network Switch, Dell OptiPlex 7040M\
+**Technologies:** Proxmox, Kali Linux, Windows 10/11, Network Switch, Dell OptiPlex 7040M\
 **Key Features:**
 - Type-1 and Type-2 Hypervisors
 - Multiple OSs for various lab interfaces and environments
 - Network segmentation (i.e. Sandboxing, Airgapping, Internal Network)
-- Wazuh SIEM for detection and response practice
-
-### 2. [Digital Forensics & Investigations](https://github.com/esolen-cyber/digital-forensics)
-**Description:** Various techniques of enumeration of malware and attack vectors to narrow down how an attacker gained access to a system.\
-**Technologies:** VirtualBox, Kali Linux, MacOS, Windows 10/11, Wazuh\
-**Key Skills:**
-- Performing malware analysis in an isolated environment
-- Determing intial attack vector and threat actors goal
-- Creating writeups documenting findings and stating how to mitigate attacks in the future
+- Wazuh SIEM for malware analysis, detection, and response practice
 
 ## Education
 
 **Certificate of Completion**\
-Per Scholas | Expected Completion: July 2026\
+Per Scholas | Completed: July 2026\
 Relevant Coursework: Network Defense, Cryptography, Linux Basics, Splunk labs
 
 ## Links
