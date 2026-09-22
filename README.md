@@ -1,7 +1,7 @@
 # Hello, I'm Eli
 <a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/a49128a91ed54daead40ffd49028bf42"><img src="image.png" alt="Security+ Logo" width="90" height="90"></a>
 
-I am a cybersecurity and IT professional, with 9+ years in system and network administration in my home. My journey with computers has been a long road filled with inquisition, curiosity, and many profound moments of being humbled by own ID-10-T errors. One day I hope to open my own security consultancy firm, performing digital and physical penetration testing. I am eager to start my professional technology journey, specifically aiming to join an SOC or Digital Forensics team.
+I am a cybersecurity and IT professional, with 9+ years in system and network administration in my home. My journey with computers has been a long road filled with inquisition, curiosity, and many profound moments of being humbled by own ID-10-T errors. One day I hope to open my own security consultancy firm, performing digital and physical penetration testing. I am eager to start my professional technology journey.
 
 ## Skills & Technologies
 
