@@ -1,14 +1,19 @@
 # Hello, I'm Eli
-<img src="image.png" alt="Security+ Logo" width="90" height="90">
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/a49128a91ed54daead40ffd49028bf42"><img src="image.png" alt="Security+ Logo" width="90" height="90"></a>
 
-I am a cybersecurity and IT professional with 9+ years in home system admin and home network building experience.
+I am a cybersecurity and IT professional with 9+ years in home system admin and home network building experience. My journey with computers has been a long road filled with inquisition, curiosity, and many profound moments of being humbled by own ID-10-T errors. One day I hope to open my own security consultancy firm, performing digital and physical penetration testing. I am eager to start my professional technology journey, specifically aiming to join an SOC or Digital Forensics team.
 
 ## Skills & Technologies
 
-### Certifications & Certificates
+### Certifications
 - CompTIA Security+ ce (Expires July 2029)
+
+### Additional Certificates
 - Cisco Networking Academy: Network Defense (Completed May 2026)
 - Cisco Networking Academy: Networking Basics (Completed April 2026)
+- Cisco Networking Academy: IT Customer Support Basics (Completed September 2026)
+- Cisco Networking Academy: Operating Systems Basics (Completed January 2026)
+- Cisco Networking Academy: Computer Hardware Basics (Completed January 2026)
 - Coursera: Google AI Essentials (Completed April 2026)
 
 ### Security Skills
@@ -18,10 +23,6 @@ I am a cybersecurity and IT professional with 9+ years in home system admin and 
 ### Technical Skills
 - **Operating Systems:** Kali Linux, Windows 10/11, Proxmox
 - **Tools:** Nmap, Metasploit, Wireshark, Burp Suite
-
-## Career Goal
-
-My journey with computers has gotten me to this point and I hope that it continues to do so. One day I hope to open my own security consultancy firm, performing digital and physical penetration testing. I am eager to start my professional technology journey, specifically aiming to join an SOC or Digital Forensics team.
 
 ## Current Focus
 
@@ -43,9 +44,9 @@ My journey with computers has gotten me to this point and I hope that it continu
 
 ## Education
 
-**Certificate of Completion**\
+**Certificate of Completion** | Cybersecurity Remote Technical Training\
 Per Scholas | Completed: July 2026\
-Relevant Coursework: Network Defense, Cryptography, Linux Basics, Splunk labs
+Relevant Coursework: Access Control, Cryptography, Data Security, Information Security, Network Security, Security Policy, Threat Detection, Threat Management, Computer Forensics, Disaster Recovery, Firewalls, Malware Detection, Security Awareness, Security Management, Mobile Security
 
 ## Links
 <a href="https://www.linkedin.com/in/elijah-solen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&logoColor=white" /></a>
